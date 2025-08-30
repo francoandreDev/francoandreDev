@@ -141,8 +141,3 @@
 <br>
 <br>
 
-<div align='center'>
-
-## <b>What</b>
-
-</div>
